@@ -1,6 +1,6 @@
 # 📈 Finance Projects Repository  
 
-This repository contains various **financial analysis and modeling projects** conducted by following tutorials from [Ryan O'Connell, CFA](https://www.youtube.com/@RyanOConnellCFA). 🎓📊  
+This repository contains various **financial analysis and modeling projects** conducted by following tutorials from [Ryan O'Connell, CFA](https://www.youtube.com/@RyanOConnellCFA). He currently has less than 50k subscribers but amazing content! Go to his channel and check it out. 🎓📊  
 
 ## 📌 Included Projects  
 1. 🏦 **Collecting Stock Prices from yFinance** [`.ipynb`]  
