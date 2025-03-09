@@ -2,6 +2,8 @@
 
 This repository contains various **financial analysis and modeling projects** conducted by following tutorials from [Ryan O'Connell, CFA](https://www.youtube.com/@RyanOConnellCFA). He currently has less than 50k subscribers but amazing content! Go to his channel and check it out. 🎓📊  
 
+It only includes traditional finance projects that do not use ML. Check my repo [Machine Learning](https://github.com/manuelescola/repo_machine_learning) to see some ML projects in Finance.
+
 ## 📌 Included Projects  
 1. 🏦 **Collecting Stock Prices from yFinance** [`.ipynb`]  
    - Fetching real-time stock data using the `yFinance` library.  
